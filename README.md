@@ -5,6 +5,7 @@ This is a portfolio solver pfolioUZK, a naive parallel portfolio SAT solver
 based on the implementation of pico-portfolio by Olivier Roussel 2010.
 
 Version: SAT Challenge 2012
+
 Authors: Andreas Wotzlaw, Alexander van der Grinten and Ewald Speckenmeyer
 University of Cologne, Germany
 
