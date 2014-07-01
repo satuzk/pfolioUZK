@@ -19,3 +19,4 @@ GCC 4.7 or later and Boost C++ Libraries are required to build the solver.
 
 Run `./pfolioUZK <INSTANCE_FILE>`
 
+The solver accepts a SAT instance in DIMACS CNF format.
